@@ -13,3 +13,7 @@ public class ControlVerifierIdentite {
 		return village.trouverHabitant(nomVendeur) != null;
 	}
 }
+
+
+
+//nassro nassro test
